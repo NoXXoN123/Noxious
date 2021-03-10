@@ -1,2 +1,2 @@
 # Noxious
-/test
+@How to install
