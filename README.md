@@ -1,2 +1,2 @@
 # Noxious
-*test*
+/test
